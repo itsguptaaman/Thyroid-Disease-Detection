@@ -46,8 +46,11 @@ or
 1. Run this project in local by executing the code "python app.py"
 2. In browser open "http://127.0.0.1:5000/" link or Check the log file to get the default link
 3. You will get an UI displayed below.
+![Throid](https://user-images.githubusercontent.com/88229259/217767176-f931639e-1881-480d-a1a4-8013f5e5f044.PNG)
 4. Enter patients data and click on "Predict" button
+![3 PNG](https://user-images.githubusercontent.com/88229259/217767290-dc073461-9b57-4e8e-902f-713440c2e6ec.jpg)
 5. You'll get the result below input table
+![4](https://user-images.githubusercontent.com/88229259/217767364-e26b90bf-782a-4fb5-8cf3-3f173d9fb0c5.jpg)
 6. To get out of the terminal use cntr + C.
 
 ## Data Collections
